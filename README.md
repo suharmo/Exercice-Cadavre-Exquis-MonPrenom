@@ -5,5 +5,9 @@
 
 ##This is when it’s very important for hamsters to be removed from their mother’s care and, in the case of Syrian hamsters, separated to live as individuals. 
 
+<<<<<<< HEAD
 *Hamsters* like to play with balls and run around. They are **friendly**, **fun** and **chill** at the same time. When it's cold, you can pet them to warm yourself a bit... **Brrr**!
 
+=======
+Syrians hamsters are also known to develop *cannibalistic* tendencies sometimes when the youngs stay for too long with their mothers.
+>>>>>>> Marco
