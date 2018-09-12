@@ -11,3 +11,6 @@
 =======
 Syrians hamsters are also known to develop *cannibalistic* tendencies sometimes when the youngs stay for too long with their mothers.
 >>>>>>> Marco
+
+Hamsters especially have the particularity of having expandable pockets inside the cheeks, called mazes
+
