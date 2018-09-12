@@ -4,3 +4,5 @@
 ##Once their eyes are open, they grow more independent in their exploration. However, they continue to be reared by their mother until they are between 21 and 28 days old.
 
 ##This is when it’s very important for hamsters to be removed from their mother’s care and, in the case of Syrian hamsters, separated to live as individuals. 
+
+It has to be done with **outmost haste**, for it is known that syrian hamsters tend to go in a frenzied state past that point in time, developping cringy *cannibalistic* tendencies that do not die off until only one is left standing .
